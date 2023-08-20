@@ -1,0 +1,21 @@
+<?php
+return [
+    'users' ,
+    'admins' ,
+    'settings' ,
+    'categories' ,
+    'posts' ,
+    'category_products' ,
+    'cities' ,
+    'favorites' ,
+    'orders' ,
+    'payments' ,
+    'order_details' ,
+    'partners' ,
+    'products' ,
+    'product_imgs' ,
+    'slides' ,
+    'statues' ,
+    'units' ,
+    'user_addresses' ,
+];

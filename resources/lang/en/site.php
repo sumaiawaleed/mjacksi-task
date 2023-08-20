@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'title' => 'title',
+    'email' => 'email',
+    'password' => 'password',
+    'remember_me' => 'remember me',
+    'login' => 'login',
+    'home' => 'home',
+    'users' => 'users',
+    'one_users' => 'user',
+    'dash_users' => 'Admins',
+    'logout' => 'logout',
+    'delete' => 'delete',
+    'deleted_successfully' => 'deleted successfully',
+
+    'password_confirmation' => 'password confirmation',
+    'update' => 'update',
+    'read' => 'read',
+    'settings' => 'settings',
+    'action' => 'action',
+    'select' => 'select',
+    'add' => 'add',
+    'edit' => 'edit',
+    'create' => 'create',
+    'alert' => 'alert',
+    'updated_successfully' => 'updated successfully',
+    'added_successfully' => 'added successfully',
+    'confirm_delete' => 'Are you sure you want to delete this?',
+    'yes' => 'yes',
+    'image_path' => 'image',
+    'profile' => 'profile',
+    'remember' => 'remember',
+    'status' => 'status',
+    'agent_id' => 'agent',
+    'message' => 'message',
+
+    'notes' => 'notes',
+    'one_notes' => 'note',
+    'notifications' => 'notifications',
+    'one_notifications' => 'notification',
+   
+
+    'note_details' => 'note text',
+    'name' => 'name',
+    'device' => 'device',
+    'description' => 'description',
+];
